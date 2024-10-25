@@ -25,7 +25,7 @@ In this project, I focused on:
 ---
 
 ### Project Preview
-<img src="./Documents/H4X0RNewsPreview.png" alt="H4X0R News Preview" width="300px">
+<img src="./Documents/Readme.png" alt="H4X0R News Preview" width="300px">
 
 ---
 
